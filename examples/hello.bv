@@ -1,0 +1,6 @@
+print("Hello, Brevy Lang!")
+
+name = "Medusa"
+age = 99
+print("Name:", name)
+print("Age:", age)
