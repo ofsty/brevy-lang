@@ -1,0 +1,9 @@
+int_var = 42
+float_var = 3.14159
+bool_var = True
+string_var = "Brevy is awesome!"
+
+print(int_var)
+print(float_var)
+print(bool_var)
+print(string_var)
