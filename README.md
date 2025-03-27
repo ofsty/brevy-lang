@@ -5,7 +5,7 @@ A super-compact interpreted language where everything is... well, brief!
 
 ## Features
 - 🚀 Ultra-minimalist syntax
-- ⚡ Lightning-fast interpretation
+- ⚡ Lightning-fast 
 - 📦 Only 5 core files in the implementation
 - ✨ Supports variables, printing, and basic types
 
