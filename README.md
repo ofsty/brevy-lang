@@ -11,7 +11,7 @@ A super-compact interpreted language where everything is... well, brief!
 
 ## Installation
 ```bash
-git clone https://github.com/0xMedusa-dev/brevy-lang.git
+git clone https://github.com/ofsty/brevy-lang.git
 cd brevy-lang/src
 chmod +x install.sh
 ./install.sh
